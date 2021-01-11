@@ -1,13 +1,12 @@
-![Rosalind Logo](rosalind_logo.png)
+<img src="http://rosalind.info/static/img/logo.png?v=1560257990"  width=200 align="right">
 
-[Rosalind](http://rosalind.info/about/) is a platform for learning bioinformatics through problem solving. These [problems](http://rosalind.info/problems/tree-view/) build on each other and tackle a wide range of [topics](http://rosalind.info/problems/topics/), some of which are listed below.
+# Rosalind Python Solutions
 
-- Alignment
-- Combinatorics
-- Dynmaic Programming
-- Graph Algorithms
-- Genome Assembly
-- Genome Rearrangements
-- Population Dynamics
+[Rosalind](http://rosalind.info/about/) is a platform for learning bioinformatics through problem solving. These [problems](http://rosalind.info/problems/tree-view/) build on each other and tackle a wide range of [topics](http://rosalind.info/problems/topics/).
 
-This repository is divided into three directories: [problems](./problems) which houses each problem, [datasets](./datasets) which houses the downloaded datasets from Rosalind necessary for completing each problem, and [answers](./answers) which houses the solution to the respective dataset for each problem. Files are named for the unique ID attributed to each problem by Rosalind.
+This repository is divided into three directories: 
+- [problems](./problems) which houses each problem
+- [datasets](./datasets) which houses one possible dataset, downloaded from Rosalind, necessary for completing each problem
+- [answers](./answers) which houses the solution to the respective dataset for each problem
+
+[Link to my Rosalind account](http://rosalind.info/users/the_climbing_guy/)

@@ -46,8 +46,6 @@ def common_log(seq, probs):
     return answer
 
 
-
-
 def main():
     try:
         file_name = os.path.basename(__file__)[:-3]
