@@ -2,6 +2,8 @@
 
 # Rosalind Python Solutions
 
+This repository houses my solutions for the problems in the Rosalind platform. It showcases my coding, data structures, algorithms, and unit testing skills.
+
 [Rosalind](http://rosalind.info/about/) is a platform for learning bioinformatics through problem solving. These [problems](http://rosalind.info/problems/tree-view/) build on each other and tackle a wide range of [topics](http://rosalind.info/problems/topics/).
 
 This repository is divided into three directories:
